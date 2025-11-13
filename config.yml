@@ -1,0 +1,9 @@
+# For comparison between sex groups:
+# This is set as the default config
+default:
+  binary_variable: "SEX"
+
+# For comparison between patient type groups:
+patient_type:
+  binary_variable: "PATIENT_TYPE"
+
